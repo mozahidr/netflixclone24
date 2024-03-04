@@ -1,0 +1,4 @@
+npx prisma db push // to push the prisma schema to mongodb
+
+# after install 'npm i next-auth'
+# run this command 'npm i bcrypt' for hashed password
